@@ -172,10 +172,6 @@ keys:
     port: 51869
     secret: a3q5LobGqfxeS9jSm5AeqZ
   - cipher: chacha20-ietf-poly1305
-    id: '43'
-    port: 51869
-    secret: kJhsgvSfnRVH8wqaGP30rU
-  - cipher: chacha20-ietf-poly1305
     id: '44'
     port: 51869
     secret: SuFvagRNaZRFZfccrepyXf
